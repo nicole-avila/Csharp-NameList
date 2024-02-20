@@ -1,0 +1,14 @@
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\bin\Debug\net6.0\ListManipulation.exe
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\bin\Debug\net6.0\ListManipulation.deps.json
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\bin\Debug\net6.0\ListManipulation.runtimeconfig.json
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\bin\Debug\net6.0\ListManipulation.dll
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\bin\Debug\net6.0\ListManipulation.pdb
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.AssemblyInfoInputs.cache
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.AssemblyInfo.cs
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.csproj.CoreCompileInputs.cache
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.dll
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\refint\ListManipulation.dll
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.pdb
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ListManipulation.genruntimeconfig.cache
+C:\Users\NicoleAvila\source\repos\ListManipulation\ListManipulation\obj\Debug\net6.0\ref\ListManipulation.dll

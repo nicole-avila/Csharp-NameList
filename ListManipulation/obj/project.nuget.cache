@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fu286aAy5vxoO9KQKQ7o3gV669vntsDs9+892z0wYAkks2Y6lT6XeJk7kB44yz4hUS9zQGRlyhrw1Oaf17iSlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NicoleAvila\\source\\repos\\Csharp\\ListManipulation\\ListManipulation\\ListManipulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
